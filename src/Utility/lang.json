@@ -1,0 +1,23 @@
+{
+    "en":{
+        "welcomeMassage": "Welcome",
+        "normalMassage": "We Hope you enjoy learning React app with us.",
+        "greetingMassage" : "Have a Enjoyable Day!",
+        "endMassage": "We learned how to use I18n with React app.",
+        "userStateMassage": "<usersCount> users are learning React app with us."
+    },
+    "mr":{
+        "welcomeMassage": "स्वागत आहे",
+        "normalMassage": "आम्हाला आशा आहे की तुम्ही आमच्यासोबत React app शिकण्याचा आनंद घ्याल.",
+        "greetingMassage" : "तुमचा दिवस आनंददायी जावो!",
+        "endMassage": "React अॅपसह I18n कसे वापरायचे ते आम्ही शिकलो.",
+        "userStateMassage": "<usersCount> वापरकर्ते आमच्यासोबत प्रतिक्रिया अॅप शिकत आहेत."
+    },
+    "hn":{
+        "welcomeMassage": "स्वागत है",
+        "normalMassage" : "हमें उम्मीद है कि आप हमारे साथ रिएक्ट ऐप सीखने का आनंद लेंगे।",
+        "greetingMassage" : "आपका दिन मंगलमय हो!",
+        "endMassage": "हमने सीखा कि रिएक्ट ऐप के साथ I18n का उपयोग कैसे करें।",
+        "userStateMassage": "<usersCount> उपयोगकर्ता हमारे साथ रिएक्ट ऐप सीख रहे हैं।"
+    }
+}
